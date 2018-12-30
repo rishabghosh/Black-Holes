@@ -12,3 +12,4 @@ deploy:
     branch: master
   target-branch: gh-pages
   verbose: true
+  
